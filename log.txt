@@ -1,0 +1,21 @@
+Flags [P.], seq 21632700:21633132, ack 13105, win 1432, options [nop,nop,TS val 501072708 ecr 1732470419], length 432
+Flags [.], ack 21630080, win 6172, options [nop,nop,TS val 1732470419 ecr 501072707], length 0
+Flags [P.], seq 21633132:21633360, ack 13105, win 1432, options [nop,nop,TS val 501072708 ecr 1732470419], length 228
+Flags [P.], seq 21633360:21633564, ack 13105, win 1432, options [nop,nop,TS val 501072708 ecr 1732470419], length 204
+Flags [P.], seq 21633564:21634020, ack 13105, win 1432, options [nop,nop,TS val 501072709 ecr 1732470419], length 456
+Flags [P.], seq 21634020:21634248, ack 13105, win 1432, options [nop,nop,TS val 501072709 ecr 1732470419], length 228
+Flags [.], ack 21630968, win 6172, options [nop,nop,TS val 1732470420 ecr 501072707], length 0
+Flags [P.], seq 21634248:21634476, ack 13105, win 1432, options [nop,nop,TS val 501072709 ecr 1732470420], length 228
+Flags [P.], seq 21634476:21634908, ack 13105, win 1432, options [nop,nop,TS val 501072709 ecr 1732470420], length 432
+Flags [.], ack 21631400, win 6172, options [nop,nop,TS val 1732470420 ecr 501072707], length 0
+Flags [P.], seq 21634908:21635136, ack 13105, win 1432, options [nop,nop,TS val 501072709 ecr 1732470420], length 228
+Flags [P.], seq 21635136:21635340, ack 13105, win 1432, options [nop,nop,TS val 501072709 ecr 1732470420], length 204
+Flags [P.], seq 21635340:21635796, ack 13105, win 1432, options [nop,nop,TS val 501072709 ecr 1732470420], length 456
+Flags [P.], seq 21635796:21636024, ack 13105, win 1432, options [nop,nop,TS val 501072710 ecr 1732470420], length 228
+Flags [.], ack 21632472, win 6172, options [nop,nop,TS val 1732470420 ecr 501072708], length 0
+Flags [P.], seq 21636024:21636252, ack 13105, win 1432, options [nop,nop,TS val 501072710 ecr 1732470420], length 228
+Flags [P.], seq 21636252:21636684, ack 13105, win 1432, options [nop,nop,TS val 501072710 ecr 1732470420], length 432
+Flags [.], ack 21633564, win 6172, options [nop,nop,TS val 1732470420 ecr 501072708], length 0
+Flags [.], ack 21634248, win 6172, options [nop,nop,TS val 1732470421 ecr 501072709], length 0
+Flags [P.], seq 21636684:21637116, ack 13105, win 1432, options [nop,nop,TS val 501072710 ecr 1732470421], length 432
+Flags [.], ack 21634908, win 6172, options [nop,nop,TS val 1732470421 ecr 501072709], length 0
